@@ -1,7 +1,3 @@
-/* Group 6
-Nurizzati Binti Mohd Ali(SX220305ECJHS01)
-Norfarisha Hidayu Binti Fadzly(SX220302ECJHS01)
-Muhammad Shahru Ramadan Bin Andi Alan(SX220301ECJHS01) */
 
 #include <iostream>
 #include <string>
